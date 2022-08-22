@@ -2,6 +2,8 @@
 
 <!--
 **romanalisoy/romanalisoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Eldar's github stats](https://github-readme-stats.vercel.app/api?username=romanalisoy&count_private=true&show_icons=true&theme=tokyonight&hide=prs)](https://github.com/haydar/github-readme-stats)
+
 
 Here are some ideas to get you started:
 
