@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<a href="[http://example.com/](https://www.linkedin.com/in/romanalisoy/)" target="_blank">
+<a href="https://www.linkedin.com/in/romanalisoy/" target="_blank">
 
   <img src="https://github-readme-stats.vercel.app/api?username=romanalisoy&count_private=true&show_icons=true&theme=tokyonight&hide=prs">
   
