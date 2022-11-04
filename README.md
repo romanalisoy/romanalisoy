@@ -1,9 +1,11 @@
 ### Hi there 👋
-[![Eldar's github stats](https://github-readme-stats.vercel.app/api?username=romanalisoy&count_private=true&show_icons=true&theme=tokyonight&hide=prs)](https://www.linkedin.com/in/romanalisoy/){:target="_blank"}
+[![Eldar's github stats](https://github-readme-stats.vercel.app/api?username=romanalisoy&count_private=true&show_icons=true&theme=tokyonight&hide=prs)](https://www.linkedin.com/in/romanalisoy/)
+
+<a href="http://example.com/" target="_blank">Hello, world!</a>
 <!--
 **romanalisoy/romanalisoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+
 
 Here are some ideas to get you started:
 
