@@ -4,8 +4,8 @@
 <a href="https://www.linkedin.com/in/romanalisoy/" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api?username=romanalisoy&count_private=true&show_icons=true&theme=tokyonight&hide=prs">
 </a>
-
-<p align="center"> 
+<br>
+<p align="left"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/romanalisoy/count.svg" />
 </p>
