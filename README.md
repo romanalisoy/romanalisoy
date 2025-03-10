@@ -17,7 +17,8 @@
 <h2 align="center">Statistics</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/romanalisoy/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=romanalisoy&count_private=true&show_icons=true&theme=tokyonight">
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=romanalisoy&count_private=true&show_icons=true&theme=tokyonight"> -->
+    <img src="https://wakatime.com/share/@romanalisoy/30f15009-6976-4220-bf8b-55e7cfd1047f.svg">
   </a>
 </p>
 
