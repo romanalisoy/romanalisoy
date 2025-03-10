@@ -17,7 +17,7 @@
 <h2 align="center">Statistics</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/romanalisoy/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=romanalisoy&count_private=true&show_icons=true&theme=tokyonight&hide=prs">
+    <img src="https://github-readme-stats.vercel.app/api?username=romanalisoy&count_private=true&show_icons=true&theme=tokyonight">
   </a>
 </p>
 
